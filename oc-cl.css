@@ -1,0 +1,580 @@
+/*
+  Open Color CSS Classes: https://github.com/dhreck/open-color_css-classes
+
+
+  Open Color: MIT License Copyright (c) 2016 heeyeun https://github.com/yeun/open-color
+*/
+
+
+/* #################### white #################### */
+
+.oc-cl-white-0 {
+	color: #ffffff
+}
+
+
+/* #################### black #################### */
+
+.oc-cl-black-0 {
+	color: #000000
+}
+
+
+/* #################### gray #################### */
+
+.oc-cl-gray-0 {
+	color: #f8f9fa
+}
+
+.oc-cl-gray-1 {
+	color: #f1f3f5
+}
+
+.oc-cl-gray-2 {
+	color: #e9ecef
+}
+
+.oc-cl-gray-3 {
+	color: #dee2e6
+}
+
+.oc-cl-gray-4 {
+	color: #ced4da
+}
+
+.oc-cl-gray-5 {
+	color: #adb5bd
+}
+
+.oc-cl-gray-6 {
+	color: #868e96
+}
+
+.oc-cl-gray-7 {
+	color: #495057
+}
+
+.oc-cl-gray-8 {
+	color: #343a40
+}
+
+.oc-cl-gray-9 {
+	color: #212529
+}
+
+
+/* #################### red #################### */
+
+.oc-cl-red-0 {
+	color: #fff5f5
+}
+
+.oc-cl-red-1 {
+	color: #ffe3e3
+}
+
+.oc-cl-red-2 {
+	color: #ffc9c9
+}
+
+.oc-cl-red-3 {
+	color: #ffa8a8
+}
+
+.oc-cl-red-4 {
+	color: #ff8787
+}
+
+.oc-cl-red-5 {
+	color: #ff6b6b
+}
+
+.oc-cl-red-6 {
+	color: #fa5252
+}
+
+.oc-cl-red-7 {
+	color: #f03e3e
+}
+
+.oc-cl-red-8 {
+	color: #e03131
+}
+
+.oc-cl-red-9 {
+	color: #c92a2a
+}
+
+
+/* #################### pink #################### */
+
+.oc-cl-pink-0 {
+	color: #fff0f6
+}
+
+.oc-cl-pink-1 {
+	color: #ffdeeb
+}
+
+.oc-cl-pink-2 {
+	color: #fcc2d7
+}
+
+.oc-cl-pink-3 {
+	color: #faa2c1
+}
+
+.oc-cl-pink-4 {
+	color: #f783ac
+}
+
+.oc-cl-pink-5 {
+	color: #f06595
+}
+
+.oc-cl-pink-6 {
+	color: #e64980
+}
+
+.oc-cl-pink-7 {
+	color: #d6336c
+}
+
+.oc-cl-pink-8 {
+	color: #c2255c
+}
+
+.oc-cl-pink-9 {
+	color: #a61e4d
+}
+
+
+/* #################### grape #################### */
+
+.oc-cl-grape-0 {
+	color: #f8f0fc
+}
+
+.oc-cl-grape-1 {
+	color: #f3d9fa
+}
+
+.oc-cl-grape-2 {
+	color: #eebefa
+}
+
+.oc-cl-grape-3 {
+	color: #e599f7
+}
+
+.oc-cl-grape-4 {
+	color: #da77f2
+}
+
+.oc-cl-grape-5 {
+	color: #cc5de8
+}
+
+.oc-cl-grape-6 {
+	color: #be4bdb
+}
+
+.oc-cl-grape-7 {
+	color: #ae3ec9
+}
+
+.oc-cl-grape-8 {
+	color: #9c36b5
+}
+
+.oc-cl-grape-9 {
+	color: #862e9c
+}
+
+
+/* #################### violet #################### */
+
+.oc-cl-violet-0 {
+	color: #f3f0ff
+}
+
+.oc-cl-violet-1 {
+	color: #e5dbff
+}
+
+.oc-cl-violet-2 {
+	color: #d0bfff
+}
+
+.oc-cl-violet-3 {
+	color: #b197fc
+}
+
+.oc-cl-violet-4 {
+	color: #9775fa
+}
+
+.oc-cl-violet-5 {
+	color: #845ef7
+}
+
+.oc-cl-violet-6 {
+	color: #7950f2
+}
+
+.oc-cl-violet-7 {
+	color: #7048e8
+}
+
+.oc-cl-violet-8 {
+	color: #6741d9
+}
+
+.oc-cl-violet-9 {
+	color: #5f3dc4
+}
+
+
+/* #################### indigo #################### */
+
+.oc-cl-indigo-0 {
+	color: #edf2ff
+}
+
+.oc-cl-indigo-1 {
+	color: #dbe4ff
+}
+
+.oc-cl-indigo-2 {
+	color: #bac8ff
+}
+
+.oc-cl-indigo-3 {
+	color: #91a7ff
+}
+
+.oc-cl-indigo-4 {
+	color: #748ffc
+}
+
+.oc-cl-indigo-5 {
+	color: #5c7cfa
+}
+
+.oc-cl-indigo-6 {
+	color: #4c6ef5
+}
+
+.oc-cl-indigo-7 {
+	color: #4263eb
+}
+
+.oc-cl-indigo-8 {
+	color: #3b5bdb
+}
+
+.oc-cl-indigo-9 {
+	color: #364fc7
+}
+
+
+/* #################### blue #################### */
+
+.oc-cl-blue-0 {
+	color: #e7f5ff
+}
+
+.oc-cl-blue-1 {
+	color: #d0ebff
+}
+
+.oc-cl-blue-2 {
+	color: #a5d8ff
+}
+
+.oc-cl-blue-3 {
+	color: #74c0fc
+}
+
+.oc-cl-blue-4 {
+	color: #4dabf7
+}
+
+.oc-cl-blue-5 {
+	color: #339af0
+}
+
+.oc-cl-blue-6 {
+	color: #228be6
+}
+
+.oc-cl-blue-7 {
+	color: #1c7ed6
+}
+
+.oc-cl-blue-8 {
+	color: #1971c2
+}
+
+.oc-cl-blue-9 {
+	color: #1864ab
+}
+
+
+/* #################### cyan #################### */
+
+.oc-cl-cyan-0 {
+	color: #e3fafc
+}
+
+.oc-cl-cyan-1 {
+	color: #c5f6fa
+}
+
+.oc-cl-cyan-2 {
+	color: #99e9f2
+}
+
+.oc-cl-cyan-3 {
+	color: #66d9e8
+}
+
+.oc-cl-cyan-4 {
+	color: #3bc9db
+}
+
+.oc-cl-cyan-5 {
+	color: #22b8cf
+}
+
+.oc-cl-cyan-6 {
+	color: #15aabf
+}
+
+.oc-cl-cyan-7 {
+	color: #1098ad
+}
+
+.oc-cl-cyan-8 {
+	color: #0c8599
+}
+
+.oc-cl-cyan-9 {
+	color: #0b7285
+}
+
+
+/* #################### teal #################### */
+
+.oc-cl-teal-0 {
+	color: #e6fcf5
+}
+
+.oc-cl-teal-1 {
+	color: #c3fae8
+}
+
+.oc-cl-teal-2 {
+	color: #96f2d7
+}
+
+.oc-cl-teal-3 {
+	color: #63e6be
+}
+
+.oc-cl-teal-4 {
+	color: #38d9a9
+}
+
+.oc-cl-teal-5 {
+	color: #20c997
+}
+
+.oc-cl-teal-6 {
+	color: #12b886
+}
+
+.oc-cl-teal-7 {
+	color: #0ca678
+}
+
+.oc-cl-teal-8 {
+	color: #099268
+}
+
+.oc-cl-teal-9 {
+	color: #087f5b
+}
+
+
+/* #################### green #################### */
+
+.oc-cl-green-0 {
+	color: #ebfbee
+}
+
+.oc-cl-green-1 {
+	color: #d3f9d8
+}
+
+.oc-cl-green-2 {
+	color: #b2f2bb
+}
+
+.oc-cl-green-3 {
+	color: #8ce99a
+}
+
+.oc-cl-green-4 {
+	color: #69db7c
+}
+
+.oc-cl-green-5 {
+	color: #51cf66
+}
+
+.oc-cl-green-6 {
+	color: #40c057
+}
+
+.oc-cl-green-7 {
+	color: #37b24d
+}
+
+.oc-cl-green-8 {
+	color: #2f9e44
+}
+
+.oc-cl-green-9 {
+	color: #2b8a3e
+}
+
+
+/* #################### lime #################### */
+
+.oc-cl-lime-0 {
+	color: #f4fce3
+}
+
+.oc-cl-lime-1 {
+	color: #e9fac8
+}
+
+.oc-cl-lime-2 {
+	color: #d8f5a2
+}
+
+.oc-cl-lime-3 {
+	color: #c0eb75
+}
+
+.oc-cl-lime-4 {
+	color: #a9e34b
+}
+
+.oc-cl-lime-5 {
+	color: #94d82d
+}
+
+.oc-cl-lime-6 {
+	color: #82c91e
+}
+
+.oc-cl-lime-7 {
+	color: #74b816
+}
+
+.oc-cl-lime-8 {
+	color: #66a80f
+}
+
+.oc-cl-lime-9 {
+	color: #5c940d
+}
+
+
+/* #################### yellow #################### */
+
+.oc-cl-yellow-0 {
+	color: #fff9db
+}
+
+.oc-cl-yellow-1 {
+	color: #fff3bf
+}
+
+.oc-cl-yellow-2 {
+	color: #ffec99
+}
+
+.oc-cl-yellow-3 {
+	color: #ffe066
+}
+
+.oc-cl-yellow-4 {
+	color: #ffd43b
+}
+
+.oc-cl-yellow-5 {
+	color: #fcc419
+}
+
+.oc-cl-yellow-6 {
+	color: #fab005
+}
+
+.oc-cl-yellow-7 {
+	color: #f59f00
+}
+
+.oc-cl-yellow-8 {
+	color: #f08c00
+}
+
+.oc-cl-yellow-9 {
+	color: #e67700
+}
+
+
+/* #################### orange #################### */
+
+.oc-cl-orange-0 {
+	color: #fff4e6
+}
+
+.oc-cl-orange-1 {
+	color: #ffe8cc
+}
+
+.oc-cl-orange-2 {
+	color: #ffd8a8
+}
+
+.oc-cl-orange-3 {
+	color: #ffc078
+}
+
+.oc-cl-orange-4 {
+	color: #ffa94d
+}
+
+.oc-cl-orange-5 {
+	color: #ff922b
+}
+
+.oc-cl-orange-6 {
+	color: #fd7e14
+}
+
+.oc-cl-orange-7 {
+	color: #f76707
+}
+
+.oc-cl-orange-8 {
+	color: #e8590c
+}
+
+.oc-cl-orange-9 {
+	color: #d9480f
+}
+
